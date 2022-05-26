@@ -6,7 +6,24 @@ public class Hello {
             return ((int) (kilometersPerHour / 1.609344));
         }
     }
+
     public static void main(String[] args) {
+        System.out.println("m");
+
+//        System.out.println(
+                NumberToWords.numberToWords(40);
+//        int[] a = MinimumElement.readElements(2);
+//        System.out.println(Arrays.toString(a));
+
+//        System.out.println(a);
+
+//        FactorPrinter.printFactors(10);
+//        PerfectNumber.isPerfectNumber(28);
+//            MinimumElement.readElements
+
+    }
+
+        public static void main2(String[] args) {
 
 
         System.out.println(FirstLastDigitSum.sumFirstAndLastDigit(10));

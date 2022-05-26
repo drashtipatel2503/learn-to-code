@@ -12,6 +12,8 @@ public class NumberPalindrome {
                 a += t;
                 num /= 10;
             }
+
+            System.out.println(a);
             if (a== g){
                 return true;
             }else{
@@ -29,6 +31,8 @@ public class NumberPalindrome {
                 a += t;
                 num /= 10;
             }
+
+            System.out.println(a);
             if (a== g){
                 return true;
             }else{
